@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://sayali0711.github.io/csb-7g614j/static/css/main.13a81a5f.css",
+    "main.js": "https://sayali0711.github.io/csb-7g614j/static/js/main.d51d5124.js",
+    "index.html": "https://sayali0711.github.io/csb-7g614j/index.html",
+    "main.13a81a5f.css.map": "https://sayali0711.github.io/csb-7g614j/static/css/main.13a81a5f.css.map",
+    "main.d51d5124.js.map": "https://sayali0711.github.io/csb-7g614j/static/js/main.d51d5124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13a81a5f.css",
+    "static/js/main.d51d5124.js"
+  ]
+}
